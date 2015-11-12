@@ -1,0 +1,25 @@
+{
+  "name": "payment-notify",
+  "version": "1.0.0",
+  "description": "payment",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/noodleswww/payment-notify.git"
+  },
+  "keywords": [
+    "payment"
+  ],
+  "author": "noodles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noodleswww/payment-notify/issues"
+  },
+  "homepage": "https://github.com/noodleswww/payment-notify#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
